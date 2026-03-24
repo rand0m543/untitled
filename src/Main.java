@@ -5,11 +5,10 @@ public class Main {
         System.out.println("Hello, World!");
         // Create a course
         Course course = new Course("Computer Science");
-
-        // Create students
+        
         Student student1 = new Student("Alice", 20);
         Student student2 = new Student("Bob", 22);
-        
+
         course.addStudent(student1);
         course.addStudent(student2);
 
