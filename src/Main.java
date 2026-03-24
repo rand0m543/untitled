@@ -15,6 +15,7 @@ public class Main {
 
         course.addStudent(student1);
         course.addStudent(student2);
+        course.addStudent(student3);
 
         course.displayStudents();
 
