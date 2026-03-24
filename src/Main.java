@@ -11,8 +11,8 @@ public class Main {
         Student student2 = new Student("Bob", 22);
 
         // Enroll students in the course
-       // course.addStudent(student1);
-      //  course.addStudent(student2);
+        course.addStudent(student1);
+        course.addStudent(student2);
 
         // Display course details
        // course.displayStudents();
