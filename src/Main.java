@@ -9,12 +9,10 @@ public class Main {
         // Create students
         Student student1 = new Student("Alice", 20);
         Student student2 = new Student("Bob", 22);
-
-        // Enroll students in the course
+        
         course.addStudent(student1);
         course.addStudent(student2);
 
-        //     Display course details
        // course.displayStudents();
     }
 
