@@ -10,4 +10,17 @@ public class Course {
         this.courseName = courseName;
         this.students = new ArrayList<>();
     }
+
+    
+    public void addStudent(Student student) {
+        students.add(student);
+    }
+
+    
+    public void displayStudents() {
+        System.out.println("Course: " + courseName);
+        for (Student s : students) {
+            s.displayInfo();
+        }
+    }
 }
