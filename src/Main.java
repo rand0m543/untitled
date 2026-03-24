@@ -14,7 +14,7 @@ public class Main {
         course.addStudent(student1);
         course.addStudent(student2);
 
-        // Display course details
+        //     Display course details
        // course.displayStudents();
     }
 
