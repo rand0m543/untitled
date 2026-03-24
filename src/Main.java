@@ -11,6 +11,7 @@ public class Main {
 
         Student student1 = new Student("Alice", 20);
         Student student2 = new Student("Bob", 22);
+        Student student3 = new Student("Charlie", 23);
 
         course.addStudent(student1);
         course.addStudent(student2);
