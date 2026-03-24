@@ -10,8 +10,9 @@ public class Course {
         this.courseName = courseName;
         this.students = new ArrayList<>();
     }
-
     
+    //fuck this
+
     public void addStudent(Student student) {
         students.add(student);
     }
