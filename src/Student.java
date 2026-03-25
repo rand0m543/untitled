@@ -7,7 +7,7 @@ public class Student {
         this.name = name;
         this.age = age;
     }
-
+    // random
     public void displayInfo() {
         System.out.println("Name: " + name + ", Age: " + age);
     }
