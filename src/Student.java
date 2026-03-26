@@ -16,5 +16,9 @@ public class Student {
         System.out.println("Name: " + name + ", Age: " + age);
     }
 
+    public void displaymoremoreInfo() {
+        System.out.println("Name: " + name + ", Age: " + age);
+    }
+
 }
 
