@@ -10,6 +10,7 @@ public class Student {
     // random
     public void displayInfo() {
         System.out.println("Name: " + name + ", Age: " + age);
+        System.out.println("Name: " + name + ", Age: " + age);
     }
 
     public void displaymoreInfo() {
@@ -17,6 +18,7 @@ public class Student {
     }
 
     public void displaymoremoreInfo() {
+        System.out.println("Name: " + name + ", Age: " + age);
         System.out.println("Name: " + name + ", Age: " + age);
     }
 
